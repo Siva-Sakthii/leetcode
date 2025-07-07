@@ -6,8 +6,6 @@ This repository contains my solutions to various LeetCode problems, organized by
 
 - ✅ Clean and efficient solutions in Python.
 - 📂 Organized by data structure/topic (e.g., Arrays, Strings, DP).
-- 📝 Notes on patterns and approaches I’ve learned.
-- 🧪 Test cases included for some problems.
 
 ## 🛠️ Languages Used
 
@@ -35,4 +33,4 @@ This repository contains my solutions to various LeetCode problems, organized by
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/siva-sakthii-u-s-114143277/) or check out my other projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/siva-sakthii-u-s-114143277/) and check out my other projects!
